@@ -1,0 +1,20 @@
+State:
+  count: number (0)
+
+EventHandlers:
+  handleIncrement:
+    - count: increment
+  handleDecrement:
+    - count: decrement
+
+Render:
+  - div:
+      className: "App"
+      children:
+        - h1: "Count: " + count
+        - button:
+            onClick: handleIncrement
+            children: "Increment"
+        - button:
+            onClick: handleDecrement
+            children: "Decrement"

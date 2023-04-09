@@ -1,0 +1,7 @@
+Create a pseudocode for a cooking recipe for creating React components
+Change the pseudocode format to YAML
+Explain the steps to create a basic React app with increment and decrement buttons and a displayed number
+Write a CSS class based on YouTube.com's design principles and import it to the React component
+Center the React component on the screen and make the background grey
+Write a README.md file for the Counter App, excluding screenshots, feedback, and acknowledgements, and mention that it was generated automatically by ChatGPT
+Change the README.md format to make it easier to copy and paste.
